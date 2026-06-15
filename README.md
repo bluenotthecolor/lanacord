@@ -1,8 +1,8 @@
-# DiscordMod
+# Lanacord
 
 <div align="center">
 
-<img src="images/logo.png" alt="DiscordMod Logo" width="200"/>
+<img src="images/logo.png" alt="Lanacord Logo" width="200"/>
 
 ### A customizable Discord modification manager
 
@@ -10,14 +10,10 @@ Install, manage, and customize Discord with ease.
 
 ---
 
-![Version](https://img.shields.io/github/v/release/bluenotthecolor/DiscordMod?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/bluenotthecolor/DiscordMod/total?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/bluenotthecolor/DiscordMod?style=for-the-badge)
-![License](https://img.shields.io/github/license/bluenotthecolor/DiscordMod?style=for-the-badge)
-
-<br>
-
-<img src="images/screenshot.png" width="220"/>
+![Version](https://img.shields.io/github/v/release/bluenotthecolor/Lanacord?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/bluenotthecolor/Lanacord/total?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/bluenotthecolor/Lanacord?style=for-the-badge)
+![License](https://img.shields.io/github/license/bluenotthecolor/Lanacord?style=for-the-badge)
 
 </div>
 
@@ -50,8 +46,8 @@ Before building, install:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/bluenotthecolor/DiscordMod.git
-cd DiscordMod
+git clone https://github.com/bluenotthecolor/Lanacord.git
+cd Lanacord
 ```
 
 ### Build
@@ -82,7 +78,7 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 ## Project Structure
 
 ```text
-DiscordMod/
+Lanacord/
 ├── app/
 ├── assets/
 ├── images/
@@ -117,6 +113,6 @@ See the LICENSE file for details.
 
 <div align="center">
 
-Made with by the DiscordMod Team
+Forked by lana
 
 </div>
